@@ -1,0 +1,44 @@
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\bin\Debug\net5.0-windows\VacanciesClient.exe
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\bin\Debug\net5.0-windows\VacanciesClient.deps.json
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\bin\Debug\net5.0-windows\VacanciesClient.runtimeconfig.json
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\bin\Debug\net5.0-windows\VacanciesClient.runtimeconfig.dev.json
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\bin\Debug\net5.0-windows\VacanciesClient.dll
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\bin\Debug\net5.0-windows\ref\VacanciesClient.dll
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\bin\Debug\net5.0-windows\VacanciesClient.pdb
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient.csprojAssemblyReference.cache
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\obj\Debug\net5.0-windows\App.g.cs
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient_MarkupCompile.cache
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient_MarkupCompile.lref
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient.g.resources
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient.AssemblyInfoInputs.cache
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient.AssemblyInfo.cs
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient.dll
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\obj\Debug\net5.0-windows\ref\VacanciesClient.dll
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient.pdb
+D:\Documents\Projects\Firas Ousta\Vacancy\Vacancy\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient.genruntimeconfig.cache
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\bin\Debug\net5.0-windows\VacanciesClient.exe
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\bin\Debug\net5.0-windows\VacanciesClient.deps.json
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\bin\Debug\net5.0-windows\VacanciesClient.runtimeconfig.json
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\bin\Debug\net5.0-windows\VacanciesClient.runtimeconfig.dev.json
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\bin\Debug\net5.0-windows\VacanciesClient.dll
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\bin\Debug\net5.0-windows\ref\VacanciesClient.dll
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\bin\Debug\net5.0-windows\VacanciesClient.pdb
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient.csproj.AssemblyReference.cache
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient_MarkupCompile.cache
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient_MarkupCompile.lref
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient.g.resources
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient.AssemblyInfoInputs.cache
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient.AssemblyInfo.cs
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient.csproj.CoreCompileInputs.cache
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient.dll
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\obj\Debug\net5.0-windows\ref\VacanciesClient.dll
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient.pdb
+C:\Users\firas\Desktop\C#_Projects\REST API based client-server solution\VacanciesClient\obj\Debug\net5.0-windows\VacanciesClient.genruntimeconfig.cache
